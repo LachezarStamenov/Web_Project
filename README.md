@@ -1,5 +1,5 @@
 # BT Real Estate's Project With Django 4.0.3
-> A house/properties listing website for a fictional company designed with Bootstrap 4.0.x and the python framework Django 2.x
+> A house/properties listing website for a fictional company designed with Bootstrap 4.0.x and the python framework Django 4
 
 # Brief Description
 A website that contains propery listings for a fictional company named BT Real Estates that includes functionality for searching, adding realtors and a user registration and login sytem to allow users to search properties and make inquiries.
